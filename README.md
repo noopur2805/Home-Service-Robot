@@ -1,5 +1,5 @@
 # Home-Service-Robot
-Project 5 of Udacity Robotics Software Engineer Nanodegree
+
 ![Overview](video.gif)  
 
 ## Overview  
